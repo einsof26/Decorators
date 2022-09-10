@@ -1,0 +1,10 @@
+date_and_time--2022-09-10 09:47:18.745302
+function_name--scraping
+arguments--(), {'keywords': ['дизайн', 'фото', 'web', 'python', 'разработчика', 'Телеграм', 'МГЛУ']}
+result--None
+-------------
+date_and_time--2022-09-10 09:48:16.610178
+function_name--scraping
+arguments--(), {'keywords': ['дизайн', 'фото', 'web', 'python', 'разработчика', 'Телеграм', 'МГЛУ']}
+result--<сегодня в 08:27>-<Midjourney — нейросеть генерирующая картинки по текстовому описанию>-<https://habr.com/ru/all//ru/post/687524/>
+-------------
